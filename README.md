@@ -1,6 +1,5 @@
-Group memebers are: yukti ogare ,anshika pandey,adarsh pandey.
-
-# College Management System (title of the project)
+Group memebers : Yukti ogare ,Anshika pandey,Adarsh pandey.
+title of the project: College Management System 
 College management system is an integrated console based application that handles various academic activities of a College. It is a mini python project that is used to keep and maintain the complete record of Students. It was developed using Python Tkinter and used sqlite3.
 
 
